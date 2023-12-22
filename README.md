@@ -1,3 +1,4 @@
+[![MasterHead](https://frogdesign.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2020/08/04192430/AI_designing-with-data.gif)](https://rishavchanda.io)
 ### Hi, I'm Micha👋
 ### is this true
 ### wehhh
@@ -15,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+dsfkds
