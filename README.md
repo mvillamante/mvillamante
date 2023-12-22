@@ -1,7 +1,5 @@
-[![MasterHead](https://frogdesign.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2020/08/04192430/AI_designing-with-data.gif)](https://rishavchanda.io)
-### Hi, I'm Micha👋
-### is this true
-### wehhh
+### Hi i am micha 👋
+
 <!--
 **mvillamante/mvillamante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-dsfkds
