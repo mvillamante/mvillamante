@@ -1,4 +1,4 @@
-### Hi, I'm Michaella👋
+### Hi, I'm Micha👋
 
 <!--
 **mvillamante/mvillamante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
