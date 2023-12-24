@@ -20,7 +20,7 @@ Welcome to my corner of the code universe! I'm Michaella Villamante, an enthusia
 
 
 ## Connect with Me
-📫 You can contact me at: villamantemichaella5@gmal.com
+📫 You can contact me at: villamantemichaella5@gmail.com <br>
 🔗Let's connect on https://github.com/mvillamante
 
 Let's build something amazing together!✨
