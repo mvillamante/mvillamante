@@ -7,12 +7,14 @@
 <h1> Hello there, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>! 😄 </h1>
 
 ## About Me🚀
-Welcome to my corner of the code universe! I'm Michaella Villamante, an enthusiastic developer with a passion for web developing. I thrive on collaboration and innovation towards the world of programming.
+Welcome to my corner of the code universe! I'm Michaella Villamante, an enthusiastic developer with a passion for web and game development. I thrive on collaboration and innovation towards the world of programming.
 
 ## What I'm Passionate About 🌟
-- Web Development
-- UI/UX Design
-- Game Development
+<ul>
+  <li>Web Development</li>
+  <li>UI/UX Design</li>
+  <li>Game Development</li>
+</ul>
 
 ##  Tech Stack 🛠
 
@@ -36,4 +38,23 @@ Welcome to my corner of the code universe! I'm Michaella Villamante, an enthusia
 📫 You can contact me at: villamantemichaella5@gmail.com <br>
 🔗Let's connect on: https://github.com/mvillamante
 
-Let's build something amazing together!✨
+Let's build something amazing together!✨ <br><br><br>
+
+<h2>Git Commands Cheat Sheet</h2>
+<p align="center">
+    <img src="https://i.pinimg.com/originals/9a/76/e5/9a76e5740ca1f0e708de4e55ce651995.gif" width="300">
+</p>
+<h3>1. 'git clone'</h3>
+<b>Usage: </b> Used to clone a repository into a new directory <br>
+<b>Parameters: </b> Repository URL <br>
+<b> Example: </b> git clone https://github.com/uername/repository.git <br>
+<b>When to Use: </b> When you want to create a local copy of a remote repository on your machine <br>
+
+
+<h3>2. 'git branch'</h3>
+<b>Usage: </b> Lists existing branches or creates a new one <br>
+<b>Parameters: </b> '-a' (all branches), '-d' (delete branch) <br>
+<b> Example: </b> git branch feature-branch <br>
+    git branch -a <br>
+<b>When to Use: </b> To create or view branches, swithc between branches, or delete branches <br>
+
