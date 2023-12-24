@@ -7,7 +7,7 @@
 <h1> Hello there, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>! 😄 </h1>
 
 ## About Me🚀
-Welcome to my corner of the code universe! I'm <b>Michaella Villamante</b>, an enthusiastic developer with a passion for <b>web </b>and <b>game development</b>. I thrive on collaboration and innovation towards the world of programming.
+Welcome to my corner! I'm <b>Michaella Villamante</b>, an enthusiastic developer with a passion for <b>web </b>and <b>game development</b>. I thrive on collaboration and innovation towards the world of programming.
 
 ## What I'm Passionate About 🌟
 <ul>
