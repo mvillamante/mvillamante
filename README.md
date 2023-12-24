@@ -9,17 +9,17 @@
 ## About Me🚀
 Welcome to my corner of the code universe! I'm Michaella Villamante, an enthusiastic developer with a passion for web developing. I thrive on collaboration and innovation towards the world of programming.
 
-## What I'm Passionate About
+## What I'm Passionate About 🌟
 - Web Development
 - UI/UX Design
 - Game Development
 
-## Current Endeavors
+## Current Endeavors 💼
 - 🎓Currently studying at Mapua Malayan Colleges Laguna taking BS Computer Science
 - 🌐 Open to collaborations and new opportunities
 
 
-## Connect with Me
+## Connect with Me 🗨️
 📫 You can contact me at: villamantemichaella5@gmail.com <br>
 🔗Let's connect on https://github.com/mvillamante
 
