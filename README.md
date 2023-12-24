@@ -46,32 +46,32 @@ Let's build something amazing together!✨ <br><br>
 
 <h3>1. 'git clone'</h3>
 <b>Usage: </b> Used to clone a repository into a new directory. <br>
-<b>Parameters: </b> Repository URL <br>
-<b> Example: </b> git clone https://github.com/uername/repository.git <br>
+<b>Parameters: </b> Repository URL <br> <br>
+<b> Example: </b> git clone https://github.com/uername/repository.git <br><br>
 <b>When to Use: </b> When you want to create a local copy of a remote repository on your machine. <br>
 
 
 <h3>2. 'git branch'</h3>
 <b>Usage: </b> Lists existing branches or creates a new one. <br>
-<b>Parameters: </b> '-a' (all branches), '-d' (delete branch) <br>
+<b>Parameters: </b> '-a' (all branches), '-d' (delete branch) <br><br>
 <b> Example: </b> <br> git branch feature-branch <br>
-    git branch -a <br>
+    git branch -a <br><br>
 <b>When to Use: </b> To create or view branches, switch between branches, or delete branches. <br>
 
 <h3>3. 'git add'</h3>
 <b>Usage: </b> Adds changes to the staging area. <br>
-<b>Parameters: </b> '-A' (all changes), specific file paths <br>
-<b> Example: </b> <br> git add . <br> git add file.txt <br>
+<b>Parameters: </b> '-A' (all changes), specific file paths <br><br>
+<b> Example: </b> <br> git add . <br> git add file.txt <br><br>
 <b>When to Use: </b> Before committing changes to include them in the next commit. <br>
 
 <h3>4. 'git commit'</h3>
 <b>Usage: </b> Records changes to the repository. <br>
-<b>Parameters: </b> '-m' (message) <br>
-<b> Example: </b> <br> git commit -m "Add feature X" <br>
+<b>Parameters: </b> '-m' (message) <br> <br>
+<b> Example: </b> <br> git commit -m "Add feature X" <br><br>
 <b>When to Use: </b> After staging changes, commit them with a descriptive message.<br>
 
 <h3>5. 'git push'</h3>
 <b>Usage: </b> Pushes commited changes to a remote repository. <br>
-<b>Parameters: </b> Remote name, branch name <br>
-<b> Example: </b> <br> git push origin master <br>
+<b>Parameters: </b> Remote name, branch name <br><br>
+<b> Example: </b> <br> git push origin master <br><br>
 <b>When to Use: </b> When you want to share your changes with others by uploading them to a remote repository. <br>
