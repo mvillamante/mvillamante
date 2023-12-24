@@ -4,7 +4,7 @@
 </p>
 
 
-## Hello there, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>! 😄
+<h1> Hello there, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>! 😄 </h1>
 
 ## About Me🚀
 Welcome to my corner of the code universe! I'm Michaella Villamante, an enthusiastic developer with a passion for web developing. I thrive on collaboration and innovation towards the world of programming.
@@ -14,6 +14,12 @@ Welcome to my corner of the code universe! I'm Michaella Villamante, an enthusia
 - UI/UX Design
 - Game Development
 
+<h3>🛠 Tech Stack</h3>
+- 💻 &nbsp; Python | Java | C++ | C#
+- 🖥 &nbsp; Illustrator | Photoshop | Animate
+
+<br>
+
 ## Current Endeavors 💼
 - 🎓Currently studying at Mapua Malayan Colleges Laguna taking BS Computer Science
 - 🌐 Open to collaborations and new opportunities
@@ -21,6 +27,6 @@ Welcome to my corner of the code universe! I'm Michaella Villamante, an enthusia
 
 ## Connect with Me 🗨️
 📫 You can contact me at: villamantemichaella5@gmail.com <br>
-🔗Let's connect on https://github.com/mvillamante
+🔗Let's connect on: https://github.com/mvillamante
 
 Let's build something amazing together!✨
