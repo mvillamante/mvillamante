@@ -1,6 +1,6 @@
 <!-- Header Image -->
 <p align="center">
-    <img src="https://im4.ezgif.com/tmp/ezgif-4-ec3d3a7a97.gif">
+    <img src="https://im4.ezgif.com/tmp/ezgif-4-dd1633df8a.gif">
 </p>
 
 
