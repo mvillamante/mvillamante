@@ -42,7 +42,7 @@ Let's build something amazing together!✨ <br><br>
 
 ## Git Commands Cheat Sheet
 
-<img alt="Sleeping" src="https://i.pinimg.com/originals/9a/76/e5/9a76e5740ca1f0e708de4e55ce651995.gif" align="right" width="350"/>
+<img alt="Sleeping" src="https://i.pinimg.com/originals/9a/76/e5/9a76e5740ca1f0e708de4e55ce651995.gif" align="right" width="280"/>
 
 <h3>1. 'git clone'</h3>
 <b>Usage: </b> Used to clone a repository into a new directory. <br>
@@ -52,7 +52,6 @@ Let's build something amazing together!✨ <br><br>
 ````bash
 git clone https://github.com/username/repository.git 
 ````
-<br>
 <b>When to Use: </b> When you want to create a local copy of a remote repository on your machine. <br>
 
 
@@ -65,24 +64,35 @@ git clone https://github.com/username/repository.git
 git branch feature-branch 
 git branch -a 
 ````
-
-<br>
 <b>When to Use: </b> To create or view branches, switch between branches, or delete branches. <br>
 
 <h3>3. 'git add'</h3>
 <b>Usage: </b> Adds changes to the staging area. <br>
 <b>Parameters: </b> '-A' (all changes), specific file paths <br><br>
-<b> Example: </b> <br> git add . <br> git add file.txt <br><br>
+<b> Example: </b> <br> 
+
+````bash
+git add .
+git add file.txt 
+````
 <b>When to Use: </b> Before committing changes to include them in the next commit. <br>
 
 <h3>4. 'git commit'</h3>
 <b>Usage: </b> Records changes to the repository. <br>
 <b>Parameters: </b> '-m' (message) <br> <br>
-<b> Example: </b> <br> git commit -m "Add feature X" <br><br>
+<b> Example: </b> <br> 
+
+````bash
+git commit -m "Add feature X" 
+````
 <b>When to Use: </b> After staging changes, commit them with a descriptive message.<br>
 
 <h3>5. 'git push'</h3>
 <b>Usage: </b> Pushes commited changes to a remote repository. <br>
 <b>Parameters: </b> Remote name, branch name <br><br>
-<b> Example: </b> <br> git push origin master <br><br>
+<b> Example: </b> <br> 
+
+````bash
+git push origin master 
+````
 <b>When to Use: </b> When you want to share your changes with others by uploading them to a remote repository. <br>
