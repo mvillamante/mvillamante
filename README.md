@@ -14,11 +14,16 @@ Welcome to my corner of the code universe! I'm Michaella Villamante, an enthusia
 - UI/UX Design
 - Game Development
 
-<h3>🛠 Tech Stack</h3>
-- 💻 &nbsp; Python | Java | C++ | C#
-- 🖥 &nbsp; Illustrator | Photoshop | Animate
+## 🛠 Tech Stack
 
+![Python](https://img.shields.io/badge/Python-yellow?logo=python&style=flat)
+![Java](https://img.shields.io/badge/-Java-green?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![C++](https://img.shields.io/badge/-C++-white?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![C#](https://img.shields.io/badge/C%23-blue?logo=c#-sharp&style=flat)
 <br>
+![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-black?style=flat&logo=adobe-photoshop)&nbsp;
+![Adobe Animate](https://img.shields.io/badge/Adobe%20Animate-red?logo=adobe&style=flat)
 
 ## Current Endeavors 💼
 - 🎓Currently studying at Mapua Malayan Colleges Laguna taking BS Computer Science
