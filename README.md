@@ -14,7 +14,7 @@ Welcome to my corner of the code universe! I'm Michaella Villamante, an enthusia
 - UI/UX Design
 - Game Development
 
-## 🛠 Tech Stack
+##  Tech Stack 🛠
 
 ![Python](https://img.shields.io/badge/Python-yellow?logo=python&style=flat)
 ![Java](https://img.shields.io/badge/-Java-green?style=flat&logo=Java&logoColor=FFA518)&nbsp;
