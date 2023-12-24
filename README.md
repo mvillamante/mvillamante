@@ -16,14 +16,14 @@ Welcome to my corner of the code universe! I'm Michaella Villamante, an enthusia
 
 ##  Tech Stack 🛠
 
-![Python](https://img.shields.io/badge/Python-yellow?logo=python&style=flat)
+![Python](https://img.shields.io/badge/Python-yellow?logo=python&style=flat)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-purple?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-white?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![C#](https://img.shields.io/badge/C%23-blue?logo=c#-sharp&style=flat)
 <br>
 ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-003049?style=flat&logo=adobe-photoshop)&nbsp;
-![Adobe Animate](https://img.shields.io/badge/Adobe%20Animate-780000?logo=adobe&style=flat)
+![Adobe Animate](https://img.shields.io/badge/-Animate-780000?&style=flat&logo=adobe-animate)&nbsp;
 
 ## Current Endeavors 💼
 - 🎓Currently studying at Mapua Malayan Colleges Laguna taking BS Computer Science
