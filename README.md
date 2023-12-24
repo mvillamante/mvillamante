@@ -42,7 +42,7 @@ Let's build something amazing together!✨ <br><br>
 
 ## Git Commands Cheat Sheet
 
-<img alt="Sleeping" src="https://i.pinimg.com/originals/9a/76/e5/9a76e5740ca1f0e708de4e55ce651995.gif" align="center"/>
+<img alt="Sleeping" src="https://i.pinimg.com/originals/9a/76/e5/9a76e5740ca1f0e708de4e55ce651995.gif" align="center" width=150/>
 
 <h3>1. 'git clone'</h3>
 <b>Usage: </b> Used to clone a repository into a new directory. <br>
