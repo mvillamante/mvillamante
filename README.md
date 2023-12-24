@@ -4,12 +4,12 @@
 </p>
 
 
-## Hello there! I'm Michaella 👋
+## <span style="font-family:'Verdana'; font-size:24px"> Hello there! I'm <span style="color:606c38">Michaella👋
 
-## About Me  🚀
-Welcome to my corner of the code universe! I'm Michaella Villamante, an enthusiastic developer with a passion for web developing. 
+## About Me🚀
+<span style="background-color: #283618; padding: 1px; border-radius: 100px;text-align: justify;"> Welcome to my corner of the code universe! I'm Michaella Villamante, an enthusiastic developer with a passion for web developing. I thrive on [specific hobbies or activities related to your interests].
 
-### What I'm Passionate About 🌟
+## What I'm Passionate About
 - 
 - 
 -
@@ -20,7 +20,7 @@ Welcome to my corner of the code universe! I'm Michaella Villamante, an enthusia
 
 
 ## Connect with Me
-📫 You can contact me at villamantemichaella5@gmal.com
+📫 You can contact me at: villamantemichaella5@gmal.com
 🔗Let's connect on https://github.com/mvillamante
 
 Let's build something amazing together!✨
