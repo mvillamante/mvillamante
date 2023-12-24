@@ -4,7 +4,7 @@
 </p>
 
 
-## Hello there, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>! 👋
+## Hello there, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>! 😄
 
 ## About Me🚀
 Welcome to my corner of the code universe! I'm Michaella Villamante, an enthusiastic developer with a passion for web developing. I thrive on collaboration and innovation towards the world of programming.
