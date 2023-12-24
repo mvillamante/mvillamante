@@ -42,7 +42,7 @@ Let's build something amazing together!✨ <br><br><br>
 
 <h2>Git Commands Cheat Sheet</h2>
 
-<img alt="Sleeping" src="https://i.pinimg.com/originals/9a/76/e5/9a76e5740ca1f0e708de4e55ce651995.gif" align="right" width="250"/>
+<img alt="Sleeping" src="https://i.pinimg.com/originals/9a/76/e5/9a76e5740ca1f0e708de4e55ce651995.gif" align="right" width="350"/>
 <p align="center">
 </p>
 <h3>1. 'git clone'</h3>
