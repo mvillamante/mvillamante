@@ -47,15 +47,26 @@ Let's build something amazing together!✨ <br><br>
 <h3>1. 'git clone'</h3>
 <b>Usage: </b> Used to clone a repository into a new directory. <br>
 <b>Parameters: </b> Repository URL <br> <br>
-<b> Example: </b> git clone https://github.com/uername/repository.git <br><br>
+<b> Example: </b> 
+
+````bash
+git clone https://github.com/username/repository.git 
+````
+<br>
 <b>When to Use: </b> When you want to create a local copy of a remote repository on your machine. <br>
 
 
 <h3>2. 'git branch'</h3>
 <b>Usage: </b> Lists existing branches or creates a new one. <br>
 <b>Parameters: </b> '-a' (all branches), '-d' (delete branch) <br><br>
-<b> Example: </b> <br> git branch feature-branch <br>
-    git branch -a <br><br>
+<b> Example: </b> <br> 
+
+````bash
+git branch feature-branch 
+git branch -a 
+````
+
+<br>
 <b>When to Use: </b> To create or view branches, switch between branches, or delete branches. <br>
 
 <h3>3. 'git add'</h3>
