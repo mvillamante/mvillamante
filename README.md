@@ -1,21 +1,21 @@
 <!-- Header Image -->
 <p align="center">
-    <img src="https://media1.giphy.com/media/DeKJrr8vovqXC/giphy.gif?cid=ecf05e47085tkch7nsgloc14fut6bu6426ege73g55moq597&ep=v1_gifs_related&rid=giphy.gif&ct=g">
+    <img src="https://im4.ezgif.com/tmp/ezgif-4-ec3d3a7a97.gif">
 </p>
 
 
-## <span style="font-family:'Verdana'; font-size:24px"> Hello there! I'm <span style="color:606c38">Michaella👋
+## Hello there, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>! 👋
 
 ## About Me🚀
-<span style="background-color: #283618; padding: 1px; border-radius: 100px;text-align: justify;"> Welcome to my corner of the code universe! I'm Michaella Villamante, an enthusiastic developer with a passion for web developing. I thrive on [specific hobbies or activities related to your interests].
+Welcome to my corner of the code universe! I'm Michaella Villamante, an enthusiastic developer with a passion for web developing. I thrive on collaboration and innovation towards the world of programming.
 
 ## What I'm Passionate About
-- 
-- 
--
+- Web Development
+- UI/UX Design
+- Game Development
 
 ## Current Endeavors
-- 🎓Currently studying in Mapua Malayan Colleges Laguna taking BS Computer Science
+- 🎓Currently studying at Mapua Malayan Colleges Laguna taking BS Computer Science
 - 🌐 Open to collaborations and new opportunities
 
 
