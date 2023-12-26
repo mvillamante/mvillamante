@@ -18,15 +18,32 @@ Welcome to my corner! I'm <b>Michaella Villamante</b>, an enthusiastic developer
 
 ##  Tech Stack 🛠
 
+<div>
+
+<h3> Programming Languages </h3>
+
 ![Python](https://img.shields.io/badge/Python-yellow?logo=python&style=flat)&nbsp;
-![Java](https://img.shields.io/badge/-Java-31572c?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![Java](https://img.shields.io/badge/-Java-31572c?style=flat&logo=Java&logoColor=Orange)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-white?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![C#](https://img.shields.io/badge/C%23-blue?logo=c#-sharp&style=flat)
-![Visual Studio Community](https://img.shields.io/badge/Visual%20Studio%20Community-3c096c?logo=visual-studio&style=flat)
-<br>
+![C#](https://img.shields.io/badge/C%23-blue?logo=c#-sharp&style=flat)&nbsp;
+
+<h3>IDEs & Tools</h3>
+
 ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-003049?style=flat&logo=adobe-photoshop)&nbsp;
 ![Adobe Animate](https://img.shields.io/badge/-Animate-780000?&style=flat&logo=adobe-animate)&nbsp;
+![After Effects](https://img.shields.io/badge/-After%20Effects-gray?style=flat&logo=adobe-after-effects)&nbsp;
+
+<h3> Currently Learning </h3>
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) &nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)&nbsp;
+
+</div>
 
 
 ## Current Endeavors 💼
