@@ -51,6 +51,8 @@ Welcome to my corner! I'm <b>Michaella Villamante</b>, an enthusiastic developer
 <ul>
 <li> 🎓Currently a 2nd Year B.S. Computer Science student at Mapua Malayan Colleges Laguna </li>
 <li> 🌐 Open to collaborations and new opportunities</li>
+<li> 💻 Learning new programming languages </li>
+<li> 👾 Exploring web and game development projects </li>
 </ul>
 
 ## Connect with Me 🗨️
