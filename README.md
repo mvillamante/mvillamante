@@ -35,8 +35,10 @@ Welcome to my corner! I'm <b>Michaella Villamante</b>, an enthusiastic developer
 
 
 ## Connect with Me 🗨️
-📫 You can contact me at: villamantemichaella5@gmail.com <br>
-🔗Let's connect on: https://github.com/mvillamante
+[![Gmail Badge](https://img.shields.io/badge/-villamantemichaella5@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:villamantemichaella5@gmail.com)](villamantemichaella5@gmail.com)
+[![Github Badge](https://img.shields.io/badge/-mvillamante-blue?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mvillamante)](https://github.com/mvillamante)
+
+<hr>
 
 Let's build something amazing together!✨ <br><br>
 
