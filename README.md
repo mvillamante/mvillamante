@@ -30,9 +30,11 @@ Welcome to my corner! I'm <b>Michaella Villamante</b>, an enthusiastic developer
 
 
 ## Current Endeavors 💼
-- 🎓Currently studying at Mapua Malayan Colleges Laguna taking BS Computer Science
-- 🌐 Open to collaborations and new opportunities
 
+<ul>
+<li> 🎓Currently a 2nd Year BS Computer Science student Mapua Malayan Colleges Laguna </li>
+<li> 🌐 Open to collaborations and new opportunities</li>
+</ul>
 
 ## Connect with Me 🗨️
 [![Gmail Badge](https://img.shields.io/badge/-villamantemichaella5@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:villamantemichaella5@gmail.com)](mailto:villamantemichaella5@gmail.com)
