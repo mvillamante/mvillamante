@@ -44,7 +44,7 @@ Welcome to my corner! I'm <b>Michaella Villamante</b>, an enthusiastic developer
 
 ## Git Commands Cheat Sheet 📄
 
-<img alt="Sleeping" src="https://i.pinimg.com/originals/9a/76/e5/9a76e5740ca1f0e708de4e55ce651995.gif" align="center" width=100/>
+<img alt="Sleeping" src="https://i.pinimg.com/564x/d7/51/5a/d7515a309055053d615f2753a5fbf0b0.jpg" align="center" width=100/>
 
 <h3>1. 'git clone'</h3>
 <b>Usage: </b> Used to clone a repository into a new directory. <br>
