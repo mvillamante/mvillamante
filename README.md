@@ -1,6 +1,6 @@
 <!-- Header Image -->
 <p align="center">
-    <img src="https://im4.ezgif.com/tmp/ezgif-4-f4cea7a63b.gif">
+    <img src="https://media0.giphy.com/media/ASy3PKVFnk7ZK/giphy.gif?cid=ecf05e47xnqqcfo0dws1e6arpkmsc1pp2zjdi22o3n6nzs9q&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 </p>
 
 
@@ -44,7 +44,7 @@ Welcome to my corner! I'm <b>Michaella Villamante</b>, an enthusiastic developer
 
 ## Git Commands Cheat Sheet 📄
 
-<img alt="Sleeping" src="https://i.pinimg.com/564x/d7/51/5a/d7515a309055053d615f2753a5fbf0b0.jpg" align="center" width=100/>
+<img alt="Sleeping" src="https://i.pinimg.com/564x/d7/51/5a/d7515a309055053d615f2753a5fbf0b0.jpg" align="center"/>
 
 <h3>1. 'git clone'</h3>
 <b>Usage: </b> Used to clone a repository into a new directory. <br>
