@@ -1,6 +1,6 @@
 <!-- Header Image -->
 <p align="center">
-    <img alt="Tororo" src="https://media0.giphy.com/media/ASy3PKVFnk7ZK/giphy.gif?cid=ecf05e47xnqqcfo0dws1e6arpkmsc1pp2zjdi22o3n6nzs9q&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+    <img alt="Tororo" src="tororo.gif">
 </p>
 
 
@@ -44,7 +44,7 @@ Welcome to my corner! I'm <b>Michaella Villamante</b>, an enthusiastic developer
 
 ## Git Commands Cheat Sheet 📄
 
-<img alt="Rain falling" src="https://i.pinimg.com/originals/83/7f/c3/837fc339d444366b898103387f2166f1.gif" align="center" width="1500" height="250"/>
+<img alt="Rain falling" src="rainfall.gif" align="center" width="1500" height="250"/>
 
 <h3>1. 'git clone'</h3>
 <b>Usage: </b> Used to clone a repository into a new directory. <br>
