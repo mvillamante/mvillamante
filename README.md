@@ -4,7 +4,7 @@
 </p>
 
 
-<h1> Hello there, fellow <font color=green> <𝚌𝚘𝚍𝚎𝚛𝚜/>! </font color> 😄 </h1>
+<h1> Hello there, fellow <font color=green> <𝚌𝚘𝚍𝚎𝚛𝚜/>! </font> 😄 </h1>
 
 ## About Me🚀
 Welcome to my corner! I'm <b>Michaella Villamante</b>, an enthusiastic developer with a passion for <b>web </b>and <b>game development</b>. I thrive on collaboration and innovation towards the world of programming.
