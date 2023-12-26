@@ -40,9 +40,7 @@ Welcome to my corner! I'm <b>Michaella Villamante</b>, an enthusiastic developer
 
 <hr>
 
-Let's build something amazing together!✨ <br><br>
-
-## Git Commands Cheat Sheet
+## Git Commands Cheat Sheet 📄
 
 <img alt="Sleeping" src="https://i.pinimg.com/originals/9a/76/e5/9a76e5740ca1f0e708de4e55ce651995.gif" align="center" width=100/>
 
