@@ -32,7 +32,7 @@ Welcome to my corner! I'm <b>Michaella Villamante</b>, an enthusiastic developer
 ## Current Endeavors 💼
 
 <ul>
-<li> 🎓Currently a 2nd Year BS Computer Science student Mapua Malayan Colleges Laguna </li>
+<li> 🎓Currently a 2nd Year B.S. Computer Science student at Mapua Malayan Colleges Laguna </li>
 <li> 🌐 Open to collaborations and new opportunities</li>
 </ul>
 
