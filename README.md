@@ -1,6 +1,6 @@
 <!-- Header Image -->
 <p align="center">
-    <img alt="Tororo" src="tororo.gif">
+    <img alt="Tororo" src="images/tororo.gif">
 </p>
 
 
@@ -63,7 +63,7 @@ Welcome to my corner! I'm <b>Michaella Villamante</b>, an enthusiastic developer
 
 ## 𝙶𝚒𝚝 𝙲𝚘𝚖𝚖𝚊𝚗𝚍𝚜 𝙲𝚑𝚎𝚊𝚝 𝚂𝚑𝚎𝚎𝚝 📄
 
-<img alt="Rain falling" src="rainfall.gif" align="center" width="1500" height="200"/>
+<img alt="Rain falling" src="images/rainfall.gif" align="center" width="1500" height="200"/>
 
 <h3>⓵ '𝚐𝚒𝚝 𝚌𝚕𝚘𝚗𝚎'</h3>
 <b>Usage: </b> Used to clone a repository into a new directory. <br>
@@ -118,4 +118,4 @@ git push origin master
 ````
 <b>When to Use: </b> When you want to share your changes with others by uploading them to a remote repository. <br>
 
-<img alt="Rain falling" src="water.gif" align="center" width="1500" height="200"/>
+<img alt="Rain falling" src="images/water.gif" align="center" width="1500" height="200"/>
