@@ -73,7 +73,7 @@ Welcome to my corner! I'm <b>Michaella Villamante</b>, an enthusiastic developer
 ````bash
 git clone https://github.com/username/repository.git 
 ````
-<b>When to Use: </b> When you want to create a local copy of a remote repository on your machine. <br>
+<code><b>When to Use: </b> When you want to create a local copy of a remote repository on your machine. </code><br>
 
 
 <h3>⓶ '𝚐𝚒𝚝 𝚋𝚛𝚊𝚗𝚌𝚑'</h3>
@@ -85,7 +85,7 @@ git clone https://github.com/username/repository.git
 git branch feature-branch 
 git branch -a 
 ````
-<b>When to Use: </b> To create or view branches, switch between branches, or delete branches. <br>
+<code><b>When to Use: </b> To create or view branches, switch between branches, or delete branches. </code><br>
 
 <h3>⓷ '𝚐𝚒𝚝 𝚊𝚍𝚍'</h3>
 <b>Usage: </b> Adds changes to the staging area. <br>
@@ -96,7 +96,7 @@ git branch -a
 git add .
 git add file.txt 
 ````
-<b>When to Use: </b> Before committing changes to include them in the next commit. <br>
+<code><b>When to Use: </b> Before committing changes to include them in the next commit. </code><br>
 
 <h3>⓸ '𝚐𝚒𝚝 𝚌𝚘𝚖𝚖𝚒𝚝'</h3>
 <b>Usage: </b> Records changes to the repository. <br>
@@ -106,7 +106,7 @@ git add file.txt
 ````bash
 git commit -m "Add feature X" 
 ````
-<b>When to Use: </b> After staging changes, commit them with a descriptive message.<br>
+<code><b>When to Use: </b> After staging changes, commit them with a descriptive message.</code><br>
 
 <h3>⓹ '𝚐𝚒𝚝 𝚙𝚞𝚜𝚑'</h3>
 <b>Usage: </b> Pushes commited changes to a remote repository. <br>
@@ -116,6 +116,27 @@ git commit -m "Add feature X"
 ````bash
 git push origin master 
 ````
-<b>When to Use: </b> When you want to share your changes with others by uploading them to a remote repository. <br>
+<code><b>When to Use: </b> When you want to share your changes with others by uploading them to a remote repository. </code><br>
+
+<h3>⓺ 'git mv'</h3>
+<b>Usage: </b> Used to rename or move a file or directory in your Git repository. <br>
+<b>Parameters: </b> 'existing-path' 'new-path' <br><br>
+<b> Example: </b> <br> 
+
+````bash
+git mv old-file.txt new-file.txt
+````
+<code><b>When to Use: </b> When you need to rename or move files and want to stage the changes for the next commit. </code><br>
+
+<h3>⓻ 'git fetch'</h3>
+<b>Usage: </b> Used to fetch changes from a remote repository but does not automatically merge them into your working branch.  <br>
+<b>Parameters: </b> 'alias' (The alias/short name of the remote repository) <br><br>
+<b> Example: </b> <br> 
+
+````bash
+git fetch origin
+````
+<code><b>When to Use: </b> When you want to retrieve changes from a remote repository without automatically merging them into your local branches. </code><br>
 
 <img alt="Rain falling" src="images/water.gif" align="center" width="1500" height="200"/>
+<br><hr>
