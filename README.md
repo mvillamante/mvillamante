@@ -100,7 +100,7 @@ michaella = {
 
 *open to internships, collabs, and conversations about data ✦*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-C9A0DC?style=for-the-badge\&logo=linkedin\&logoColor=white)](www.linkedin.com/in/michaella-villamante-a9b044332)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-C9A0DC?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michaella-villamante-a9b044332)
 [![Gmail](https://img.shields.io/badge/Gmail-F4C2C2?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:villamantemichaella5@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-E8D5F5?style=for-the-badge\&logo=vercel\&logoColor=white)](https://mvillamante.github.io/)
 
