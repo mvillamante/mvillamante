@@ -1,142 +1,135 @@
-<!-- Header Image -->
-<p align="center">
-    <img alt="Tororo" src="images/tororo.gif">
-</p>
+<!-- Header -->
+<div align="center">
 
+```
+✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦
+```
 
-<h1> 𝙷𝚎𝚕𝚕𝚘 𝚝𝚑𝚎𝚛𝚎, 𝚏𝚎𝚕𝚕𝚘𝚠 <𝚌𝚘𝚍𝚎𝚛𝚜/>! 😄 </h1>
+# Michaella Villamante
 
-## 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎🚀
-Welcome to my corner! I'm <b>Michaella Villamante</b>, an enthusiastic developer with a passion for <b>web </b>and <b>game development</b>. I thrive on collaboration and innovation towards the world of programming.
+*4th year BS Computer Science student · Data Scientist in the Making*
 
-## 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝙿𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝙰𝚋𝚘𝚞𝚝 🌟
-<ul>
-  <li>Web Development</li>
-  <li>UI/UX Design</li>
-  <li>Game Development</li>
-</ul>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Serif+Display&size=18&pause=1000&color=C9A0DC&center=true&vCenter=true&width=500&lines=turning+raw+data+into+real+stories+%E2%9C%A8;machine+learning+%7C+data+viz+%7C+analytics;always+curious%2C+always+learning+%F0%9F%8C%B8)](https://git.io/typing-svg)
 
-##  𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔 🛠
-
-<div>
-
-<h3> Programming Languages </h3>
-
-![Python](https://img.shields.io/badge/Python-yellow?logo=python&style=flat)&nbsp;
-![Java](https://img.shields.io/badge/-Java-31572c?style=flat&logo=Java&logoColor=Orange)&nbsp;
-![C++](https://img.shields.io/badge/-C++-white?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![C#](https://img.shields.io/badge/C%23-blue?logo=c#-sharp&style=flat)&nbsp;
-
-<h3>IDEs & Tools</h3>
-
-![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-003049?style=flat&logo=adobe-photoshop)&nbsp;
-![Adobe Animate](https://img.shields.io/badge/-Animate-780000?&style=flat&logo=adobe-animate)&nbsp;
-![After Effects](https://img.shields.io/badge/-After%20Effects-gray?style=flat&logo=adobe-after-effects)&nbsp;
-
-<h3> Currently Learning </h3>
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) &nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)&nbsp;
+```
+✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦
+```
 
 </div>
 
+<br/>
 
-## 𝙲𝚞𝚛𝚛𝚎𝚗𝚝 𝙴𝚗𝚍𝚎𝚊𝚟𝚘𝚛𝚜 💼
+<!-- About -->
+## ✦ about me
 
-<ul>
-<li> 🎓Currently a 2nd Year B.S. Computer Science student at Mapua Malayan Colleges Laguna </li>
-<li> 🌐 Open to collaborations and new opportunities</li>
-<li> 💻 Learning new programming languages </li>
-<li> 👾 Exploring web and game development projects </li>
-</ul>
+```python
+michaella = {
+    "role"      : "aspiring data scientist",
+    "status"    : "4th year student",
+    "focus"     : ["machine learning", "data visualization", "analytics"],
+    "currently" : "building projects that make data speak",
+    "motto"     : "let the data tell the story ✨"
+}
+```
 
-## 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝙼𝚎 🗨️
-[![Gmail Badge](https://img.shields.io/badge/-villamantemichaella5@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:villamantemichaella5@gmail.com)](mailto:villamantemichaella5@gmail.com)
-[![Github Badge](https://img.shields.io/badge/-mvillamante-blue?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mvillamante)](https://github.com/mvillamante)
+<br/>
 
-<hr>
+<!-- Interests -->
+## ✦ what i'm into
 
-## 𝙶𝚒𝚝 𝙲𝚘𝚖𝚖𝚊𝚗𝚍𝚜 𝙲𝚑𝚎𝚊𝚝 𝚂𝚑𝚎𝚎𝚝 📄
+| 🤖 Machine Learning & AI | 📊 Data Visualization | 📈 Data Analytics |
+|:---:|:---:|:---:|
+| Building models that learn & predict | Turning numbers into beautiful insights | Finding patterns that drive decisions |
 
-<img alt="Rain falling" src="images/rainfall.gif" align="center" width="1500" height="200"/>
+<br/>
 
-<h3>⓵ '𝚐𝚒𝚝 𝚌𝚕𝚘𝚗𝚎'</h3>
-<b>Usage: </b> Used to clone a repository into a new directory. <br>
-<b>Parameters: </b> Repository URL <br> <br>
-<b> Example: </b> 
+<!-- Tech Stack -->
+## ✦ my toolkit
 
-````bash
-git clone https://github.com/username/repository.git 
-````
-<code><b>When to Use: </b> When you want to create a local copy of a remote repository on your machine. </code><br>
+**Languages**
 
+![Python](https://img.shields.io/badge/Python-C9A0DC?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-F4C2C2?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E8D5F5?style=for-the-badge&logo=openjdk&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-C9A0DC?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-F4C2C2?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-E8D5F5?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
-<h3>⓶ '𝚐𝚒𝚝 𝚋𝚛𝚊𝚗𝚌𝚑'</h3>
-<b>Usage: </b> Lists existing branches or creates a new one. <br>
-<b>Parameters: </b> '-a' (all branches), '-d' (delete branch) <br><br>
-<b> Example: </b> <br> 
+**Web & Frontend**
 
-````bash
-git branch feature-branch 
-git branch -a 
-````
-<code><b>When to Use: </b> To create or view branches, switch between branches, or delete branches. </code><br>
+![HTML5](https://img.shields.io/badge/HTML5-C9A0DC?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-F4C2C2?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-E8D5F5?style=for-the-badge&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-C9A0DC?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-F4C2C2?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-<h3>⓷ '𝚐𝚒𝚝 𝚊𝚍𝚍'</h3>
-<b>Usage: </b> Adds changes to the staging area. <br>
-<b>Parameters: </b> '-A' (all changes), specific file paths <br><br>
-<b> Example: </b> <br> 
+**Backend & Databases**
 
-````bash
-git add .
-git add file.txt 
-````
-<code><b>When to Use: </b> Before committing changes to include them in the next commit. </code><br>
+![Flask](https://img.shields.io/badge/Flask-C9A0DC?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-F4C2C2?style=for-the-badge&logo=django&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-E8D5F5?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<h3>⓸ '𝚐𝚒𝚝 𝚌𝚘𝚖𝚖𝚒𝚝'</h3>
-<b>Usage: </b> Records changes to the repository. <br>
-<b>Parameters: </b> '-m' (message) <br> <br>
-<b> Example: </b> <br> 
+**Data & BI**
 
-````bash
-git commit -m "Add feature X" 
-````
-<code><b>When to Use: </b> After staging changes, commit them with a descriptive message.</code><br>
+![Power BI](https://img.shields.io/badge/Power_BI-C9A0DC?style=for-the-badge&logo=powerbi&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-F4C2C2?style=for-the-badge&logo=tableau&logoColor=white)
 
-<h3>⓹ '𝚐𝚒𝚝 𝚙𝚞𝚜𝚑'</h3>
-<b>Usage: </b> Pushes commited changes to a remote repository. <br>
-<b>Parameters: </b> Remote name, branch name <br><br>
-<b> Example: </b> <br> 
+**Design**
 
-````bash
-git push origin master 
-````
-<code><b>When to Use: </b> When you want to share your changes with others by uploading them to a remote repository. </code><br>
+![Figma](https://img.shields.io/badge/Figma-C9A0DC?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-F4C2C2?style=for-the-badge&logo=canva&logoColor=white)
 
-<h3>⓺ 'git mv'</h3>
-<b>Usage: </b> Used to rename or move a file or directory in your Git repository. <br>
-<b>Parameters: </b> 'existing-path' 'new-path' <br><br>
-<b> Example: </b> <br> 
+**Tools**
 
-````bash
-git mv old-file.txt new-file.txt
-````
-<code><b>When to Use: </b> When you need to rename or move files and want to stage the changes for the next commit. </code><br>
+![Git](https://img.shields.io/badge/Git-E8D5F5?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-C9A0DC?style=for-the-badge&logo=github&logoColor=white)
 
-<h3>⓻ 'git fetch'</h3>
-<b>Usage: </b> Used to fetch changes from a remote repository but does not automatically merge them into your working branch.  <br>
-<b>Parameters: </b> 'alias' (The alias/short name of the remote repository) <br><br>
-<b> Example: </b> <br> 
+<br/>
 
-````bash
-git fetch origin
-````
-<code><b>When to Use: </b> When you want to retrieve changes from a remote repository without automatically merging them into your local branches. </code><br>
+<!-- GitHub Stats -->
+## ✦ github stats
 
-<img alt="Rain falling" src="images/water.gif" align="center" width="1500" height="200"/>
-<br><hr>
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=mvillamante&show_icons=true&theme=calm&bg_color=fdf6ff&title_color=c9a0dc&text_color=8b7b9e&icon_color=f4c2c2&border_color=e8d5f5&border_radius=12"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvillamante&layout=compact&theme=calm&bg_color=fdf6ff&title_color=c9a0dc&text_color=8b7b9e&border_color=e8d5f5&border_radius=12"/>
+
+</div>
+
+<br/>
+
+<!-- Streak -->
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=mvillamante&theme=soft-blue&background=fdf6ff&ring=c9a0dc&fire=f4c2c2&currStreakLabel=c9a0dc&border=e8d5f5&border_radius=12"/>
+
+</div>
+
+<br/>
+
+<!-- Connect -->
+## ✦ let's connect
+
+<div align="center">
+
+*open to internships, collabs, and conversations about data ✦*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-C9A0DC?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Gmail](https://img.shields.io/badge/Gmail-F4C2C2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-E8D5F5?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+```
+✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦
+```
+
+*"without data, you're just another person with an opinion."* — W. Edwards Deming
+
+![Profile views](https://komarev.com/ghpvc/?username=mvillamante&color=c9a0dc&style=flat-square&label=profile+views)
+
+</div>
