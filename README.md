@@ -28,8 +28,7 @@
 michaella = {
     "role"      : "aspiring data scientist",
     "status"    : "4th year student",
-    "focus"     : ["machine learning", "data visualization", "analytics"],
-    "currently" : "building projects that make data speak",
+    "focus"     : ["machine learning", "data visualization", "analytics"]
 }
 ```
 
