@@ -75,7 +75,7 @@ michaella = {
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvillamante&layout=compact&theme=calm&bg_color=fdf6ff&title_color=c9a0dc&text_color=8b7b9e&border_color=e8d5f5&border_radius=12"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mvillamante&layout=compact" />
 
 </div>
 
